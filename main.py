@@ -42,7 +42,7 @@ for data in datas:
           json.dump(datas, f, indent=2)
     except Exception as e:
         print(f"{e} with {name_}")
-        with open("log.txt", "w", encoding="utf-8") as log_file:
-            log_file.write(f"{e} with {name_}")
+        with open("log.txt", "a", encoding="utf-8") as log_file:
+            log_file.write(f"{e} with {name_} \n")
         continue    
       		

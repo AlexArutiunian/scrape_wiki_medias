@@ -1,0 +1,38 @@
+Invalid URL '': No scheme supplied. Perhaps you meant http://? with AllGov
+Invalid URL '': No scheme supplied. Perhaps you meant http://? with Newsview
+Invalid URL '': No scheme supplied. Perhaps you meant http://? with AllGov
+Invalid URL '': No scheme supplied. Perhaps you meant http://? with Newsview 
+Invalid URL '': No scheme supplied. Perhaps you meant http://? with AllGov 
+Invalid URL '': No scheme supplied. Perhaps you meant http://? with iHarare 
+Invalid URL '': No scheme supplied. Perhaps you meant http://? with Business2Community 
+Invalid URL '': No scheme supplied. Perhaps you meant http://? with NoMoreFakeNews.com 
+Invalid URL '': No scheme supplied. Perhaps you meant http://? with Tharawat Magazine 
+Invalid URL '': No scheme supplied. Perhaps you meant http://? with Fair Observer 
+Invalid URL '': No scheme supplied. Perhaps you meant http://? with GMWatch 
+Invalid URL '': No scheme supplied. Perhaps you meant http://? with Thejeffreylord.com 
+Invalid URL '': No scheme supplied. Perhaps you meant http://? with Before ItвЂ™s News 
+Invalid URL '': No scheme supplied. Perhaps you meant http://? with ItвЂ™s Going Down 
+'NoneType' object has no attribute 'get_text' with Escape all these Things 
+Invalid URL '': No scheme supplied. Perhaps you meant http://? with RenewedRight.com 
+Invalid URL '': No scheme supplied. Perhaps you meant http://? with Vaxxter 
+Invalid URL '': No scheme supplied. Perhaps you meant http://? with ValueWalk 
+Invalid URL '': No scheme supplied. Perhaps you meant http://? with CampusInsanity.com 
+Invalid URL '': No scheme supplied. Perhaps you meant http://? with The PeopleвЂ™s Cube 
+Invalid URL '': No scheme supplied. Perhaps you meant http://? with MediaPost 
+Invalid URL '': No scheme supplied. Perhaps you meant http://? with Dagospia 
+Invalid URL '': No scheme supplied. Perhaps you meant http://? with Scope Ratings 
+Invalid URL '': No scheme supplied. Perhaps you meant http://? with Gucmakale.com 
+Invalid URL '': No scheme supplied. Perhaps you meant http://? with StiltonвЂ™s Place 
+Invalid URL '': No scheme supplied. Perhaps you meant http://? with BarronвЂ™s 
+Invalid URL '': No scheme supplied. Perhaps you meant http://? with SWVA Today 
+Invalid URL '': No scheme supplied. Perhaps you meant http://? with AskingAngels.com 
+Invalid URL '': No scheme supplied. Perhaps you meant http://? with GreatReject 
+Invalid URL '': No scheme supplied. Perhaps you meant http://? with NE Louisiana News 
+Invalid URL '': No scheme supplied. Perhaps you meant http://? with AmoMama 
+Invalid URL '': No scheme supplied. Perhaps you meant http://? with Mercopress 
+Invalid URL '': No scheme supplied. Perhaps you meant http://? with Brut.Media 
+Invalid URL '': No scheme supplied. Perhaps you meant http://? with RocketNews 
+Invalid URL '': No scheme supplied. Perhaps you meant http://? with Ammoland 
+Invalid URL '': No scheme supplied. Perhaps you meant http://? with TheGreggJarrett.com 
+Invalid URL '': No scheme supplied. Perhaps you meant http://? with BonSens 
+Invalid URL '': No scheme supplied. Perhaps you meant http://? with The Bearded Patriot 
